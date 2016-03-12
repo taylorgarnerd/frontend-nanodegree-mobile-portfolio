@@ -1,8 +1,8 @@
 var gulp      = require('gulp'),
     htmlmin   = require('gulp-htmlmin'),
     minline   = require('gulp-minify-inline'),
-    uglify    = require('gulp-uglify');
-    imagemin  = require('gulp-imagemin');
+    uglify    = require('gulp-uglify'),
+    imagemin  = require('gulp-imagemin'),
     csso      = require('gulp-csso');
 
 
